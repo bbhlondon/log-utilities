@@ -1,0 +1,15 @@
+{
+    "name": "bbh/log-utilities",
+    "description": "",
+    "license": "MIT",
+    "keywords": ["BBH"],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "BBHLondon\\LogUtilities\\": "src/"
+        }
+    }
+}
