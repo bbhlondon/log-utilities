@@ -7,3 +7,5 @@ Using composer:
 ```
 php composer.phar require bbhlondon/log-utilities
 ```
+
+## Usage

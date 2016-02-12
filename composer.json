@@ -1,8 +1,6 @@
 {
     "name": "bbhlondon/log-utilities",
-    "description": "",
     "license": "MIT",
-    "version": "1.0.0",
     "keywords": ["BBH"],
     "require": {},
     "require-dev": {},
